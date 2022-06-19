@@ -1,7 +1,7 @@
-/** 1. Write a program to calculate the factorial of a number.
+"""1. Write a program to calculate the factorial of a number.
 a. Make sure that factorial should be calculated only if it is calculatable, else an error message must be displayed in case the calculatable conditions fails.
 b. List of those conditions
-**/
+"""
 
 def factorial(num):
     mul=1 #Taking 1 as the base for multiplication
