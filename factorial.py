@@ -11,7 +11,7 @@ def factorial(num):
         for i in range(1,num+1): #Iterating through numbers under given number+1
             mul=mul*i #Multiplying new value with existing value
         print(mul)
-def __init__=="__main__":
+if __name__ == "__main__":
     num=int(input("Enter any integer : ")) #Reading integer input from user
     print("Factorial of",num," is :")
     factorial(num)
